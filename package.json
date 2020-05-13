@@ -1,0 +1,22 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Improving my problem solving skills while solving various algorithms and data structure problems. Javascript, ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NemesAlexandru/Algorithms.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NemesAlexandru/Algorithms/issues"
+  },
+  "homepage": "https://github.com/NemesAlexandru/Algorithms#readme"
+}
