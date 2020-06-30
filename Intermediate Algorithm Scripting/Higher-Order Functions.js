@@ -19,5 +19,5 @@ const squareList = (arr) => {
   
   const squaredIntegers = squareList([-3, 4.8, 5, 3, -3.2]);
   console.log(squaredIntegers);
-  
+  //output: [ 25, 9 ]
   

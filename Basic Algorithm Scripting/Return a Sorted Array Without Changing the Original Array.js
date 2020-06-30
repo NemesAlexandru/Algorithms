@@ -14,3 +14,4 @@ return newArr;
   // Only change code above this line
 }
 console.log(nonMutatingSort(globalArray));
+//output: [ 2, 3, 5, 6, 9 ]

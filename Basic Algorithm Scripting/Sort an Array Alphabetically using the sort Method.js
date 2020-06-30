@@ -12,4 +12,4 @@ function alphabeticalOrder(arr) {
     // Only change code above this line
   }
   console.log(alphabeticalOrder(["a", "d", "c", "a", "z", "g"]));
-  
+  //output: [ 'a', 'a', 'c', 'd', 'g', 'z' ]
